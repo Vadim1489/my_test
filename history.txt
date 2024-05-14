@@ -1,0 +1,278 @@
+    1  cd
+    2  ssh keygen
+    3  /
+    4  cd
+    5  ssh-keygen
+    6  cat .ssh/id_ed25519.pub 
+    7  whoami
+    8  ssh -i ~/.ssh/idrsa ec2-user@linux.telran-edu.de~
+    9  ssh -i 
+   10   ~/.ssh/idrsa ec2-user@linux.telran-edu.de~
+   11  cd
+   12  ssh -i ~/.ssh/idrsa ec2-user@linux.telran-edu.de
+   13  ssh -i ~/.ssh/idrsa ec2-user@linux.telran-edu.de
+   14  ssh -i ~/.ssh/idrsa ec2-user@linux.telran-edu.de
+   15  ssh -i ~/.ssh/id.rsa ec2-user@linux.telran-edu.de
+   16  ls -la ~/ssh
+   17  ls -la ~/.ssh
+   18  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   19  clear
+   20  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   21  ssh -i
+   22  clear
+   23  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   24  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   25  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   26  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   27  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   28  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   29  exit
+   30  htop
+   31  top
+   32  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   33  clear
+   34  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   35  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   36  clear
+   37  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   38  cd
+   39  scp ec2-user@linux.telran-edu.de:/opt/old_opt/chumak/tetris.sh .~
+   40  cat .~tetris.ch
+   41  cat .~tetris.sh
+   42  scp ec2-user@linux.telran-edu.de:/opt/old_opt/chumak/tetris.sh ~/Desktop
+   43  cat ~/Desktop/tetris.sh 
+   44  clear
+   45  nano ~/Desktop/tetris.sh 
+   46  ./Desktop/tetris.sh 
+   47  clear
+   48  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   49  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   50  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   51  clear
+   52  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   53  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   54  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.telran-edu.de
+   55  git
+   56  git rev-parse --show-toplevel
+   57  pwd
+   58  [200~echo "# git_03.05.2024" >> README.md~
+   59  echo "# git_03.05.2024" >> README.md
+   60  ls - la
+   61  ls -la
+   62  git init
+   63  ls -la
+   64  git add README.md
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "first commit"
+   69  git branch -M main
+   70  git branch 
+   71  git branch
+   72  git remote add origin git@github.com:Vadim1489/git_03.05.2024.git
+   73  git config --global user.email kiseolar1998@gmail.com
+   74  git config --global user.name "Vadim1489"
+   75  git remote add origin git@github.com:Vadim1489/git_03.05.2024.git
+   76  git push -u origin main
+   77  git config --global user.email "kiseolar1998@gmail.com"
+   78  git push -u origin main
+   79  git remote -v
+   80  git remote remove origin
+   81  git remote add origin git@github.com:Vadim1489/git_03.05.2024.git
+   82  git push -u origin main
+   83  git status
+   84  git commit -m "first commit"
+   85  git push -u origin main
+   86  mkdir -p /1 2
+   87  mkdir -p 1 2
+   88  df >> 1/1.txt
+   89  git status
+   90  git add .
+   91  git commit -m "add folder 1"
+   92  git push
+   93  git fetch origin main
+   94  git status
+   95  git push
+   96  git pull
+   97  git status
+   98  git push
+   99  git
+  100  git init
+  101  git add .
+  102  git status
+  103  git commit -m "Test"
+  104  git push
+  105  git rev-parse --show-toplevel
+  106  git rev-parse --show-toplevel
+  107  echo "# HomeWork_FE_Prof" >> README.md
+  108  git init
+  109  ls -la
+  110  git status
+  111  git add .
+  112  git status
+  113  git commit -m "first commit HomeWork_FE"
+  114  git branch -M main
+  115  git branch
+  116  git remote add origin git@github.com:Vadim1489/HomeWork_FE_Prof.git
+  117  git push -u origin main
+  118  mkdir 1 2 
+  119  df - h >> 2/file.txt 
+  120  df -h >> 2/file.txt 
+  121  pwd
+  122  echo "# linux_git_08.05" >> README.md
+  123  git init
+  124  git status
+  125  git add .
+  126  git status
+  127  git rm --cached README.md 
+  128  git status
+  129  git add .
+  130  git commit -m "first commit"  
+  131  git branch -M main
+  132  git remote add origin git@github.com:Vadim1489/linux_git_08.05.git
+  133  git remote -v
+  134  git push -u origin main
+  135  touch 1/vadim.txt
+  136  git commit -am "added file"
+  137  git add . 
+  138  git commit -m "update"
+  139  git push
+  140  cd
+  141  cd /Desktop
+  142  pwd
+  143  mkdir /c/Users/kiseo/Desktop/linux_git_praktika
+  144  cd /c/Users/kiseo/Desktop/linux_git_praktika
+  145  [200~echo "# linux_git_praktika" >> README.md~
+  146  echo "# linux_git_praktika" >> README.md
+  147  git init
+  148  git branch -M main
+  149  git add .
+  150  git status
+  151  git rm -- cached README.md~
+  152  git status
+  153  git commit -m "added screen"
+  154  git remote add origin git@github.com:Vadim1489/linux_git_praktika.git
+  155  git push -u origin main
+  156  git rm README.md~
+  157  git status
+  158  git commit -m "Delete README.md~"
+  159  git push
+  160  cd linux_git_08.05
+  161  cd ..
+  162  cd linux_git_08.05/
+  163  git branch
+  164  git checkout -b "test"
+  165  git branch
+  166  git log
+  167  ls -a
+  168  echo "lorem" >> README.md 
+  169  git add .
+  170  git commit -m "added text"
+  171  git push
+  172  git push --set-upstream origin test
+  173  git branch -d test
+  174  git branch -D test
+  175  git checkout main
+  176  git branch -d test
+  177  touch file1.txt
+  178  git add .
+  179  git commit -m "added file2.txt"
+  180  git push
+  181  git pull 
+  182  git pull 
+  183  git status
+  184  git commit -m "added file2.txt"
+  185  git push
+  186  git pull 
+  187  git push
+  188  git status
+  189  env 
+  190  export EDITOR=nano
+  191  cd 
+  192  git clone git@github.com:Vadim1489/fork_and_pull_test.git
+  193  cd fork_and_pull_test/
+  194  git branch
+  195  touch vadim.txt
+  196  git add . 
+  197  git commit -m "added file" 
+  198  git log
+  199  git push 
+  200  git status
+  201  echo "# practice_git" >> README.md
+  202  git init
+  203  git branch -M main
+  204  git status
+  205  git status
+  206  git status
+  207  git add .
+  208  git status
+  209  git commit -m "added another files"
+  210  git remote add origin git@github.com:Vadim1489/practice_git.git
+  211  git push -u origin main
+  212  git rm \320\241\320\275\320\270\320\274\320\276\320\272 \321\215\320\272\321\200\320\260\320\275\320\260 2024-05-10 194745.png
+  213  git status
+  214  git rm 2024-05-10 194745.png
+  215  git rm --cached 2024-05-10 194745.png
+  216  git add .
+  217  git commit -m "delete png"
+  218  git push
+  219  git pull
+  220  git status
+  221  git push
+  222  git add .
+  223  git commit -m "Delete png"
+  224  git push
+  225  git add .
+  226  git commit -m "update file.txt"
+  227  git push
+  228  git commit -m "update file.txt"
+  229  git add .
+  230  git commit -m "update file.txt"
+  231  git push
+  232  mkdir DIR_01 DIR_02 DIR_03
+  233  touch file.txt DIR_01
+  234  touch file2.mgp DIR_01
+  235  nano .gitignore
+  236  git init
+  237  git branch -M main
+  238  git status
+  239  git status
+  240  git add . 
+  241  git status
+  242  git commit -m "added files"
+  243  git push -u origin main
+  244  git push -u origin main
+  245  git pull
+  246  git push --set-upstream origin main
+  247  git push
+  248  git remote add origin git@github.com:Vadim1489/my_test.git
+  249  git push
+  250  git push --set-upstream origin main
+  251  git pull 
+  252  git push --set-upstream origin main
+  253  git pull
+  254  git status
+  255  git commit -m "added files"
+  256  git add .
+  257  git push
+  258  git push --set-upstream origin main
+  259  ls -R
+  260  ls -a
+  261  cat .gitignore 
+  262  git remote -v
+  263  git push
+  264  git push -u origin main 
+  265  git pull
+  266  git remote -f
+  267  git status
+  268  git remote -v
+  269  ls -aR
+  270  git push -u origin main 
+  271  git pull origin main
+  272  git config pull.rebase true
+  273  git log
+  274  git push -u origin main
+  275  git pull origin main
+  276  git push
+  277  git push --set-upstream origin main
+  278  history >> history.txt
